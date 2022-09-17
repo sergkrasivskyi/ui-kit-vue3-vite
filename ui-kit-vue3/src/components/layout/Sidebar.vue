@@ -42,7 +42,7 @@ const links = ref([
     border-radius: 1.5rem;
 
     &:hover {
-      color: var(--primary-color);
+      color: var(--primary);
     }
   }
 }

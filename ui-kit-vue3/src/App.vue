@@ -42,7 +42,7 @@ const toggleMenu = () => {
   position: fixed;
   left: 0;
   width: 1rem;
-  background-color: var(--primary-color);
+  background-color: var(--primary);
   height: 100%;
   top: 5rem;
   z-index: 1;
